@@ -1,0 +1,43 @@
+#name {
+    font-family: fantasy;
+    font-size: 50px;
+    color: maroon;
+}
+
+.about {
+    font-size: 25px;
+}
+
+.pageheader {
+    color: maroon;
+    font-weight: bold;
+}
+
+h1 {
+    color: maroon;
+}
+
+li:hover {
+    color: maroon;
+    font-weight: bold;
+}
+
+a:hover {
+    color: maroon;
+    font-weight: bold;
+}
+
+h4.about {
+    color: maroon;
+    font-weight: bold;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.education-table th, .education-table td {
+    padding: 10px;
+}
